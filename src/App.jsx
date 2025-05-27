@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1>Bolito desplegado con CI/CD</h1>
+      <h1>Bolito desplegado en fullstack con CI/CD</h1>
       <div>
         <a href="https://vitejs.dev">
           <img src={viteLogo} className="logo" alt="Vite logo" />
