@@ -7,6 +7,7 @@ on:
       - develop
       - pruebas
       - pruebas_fs
+      - demo-prueba-render
     paths-ignore:
       - "docs/**"
       
